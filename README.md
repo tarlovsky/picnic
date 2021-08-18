@@ -1,2 +1,0 @@
-# picnic
-picnic home assignment
